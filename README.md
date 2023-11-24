@@ -1,10 +1,14 @@
-## 정한솔
+## Jeong Hansol
 
 ### Experiences
 
- - **2009~2017**: [부경대학교](https://www.pknu.ac.kr/main) 공과대학 [IT융합응용공학과](https://ce.pknu.ac.kr/ce/1) 공학사, [정보및데이터베이스시스템연구실](https://db.pknu.ac.kr/rhymix/) 학부연구생
- - **2017~2022**: [(주)한컴인스페이스](https://www.inspace.co.kr/)
- - **2022~**: [(주)바이브컴퍼니](https://www.vaivcompany.kr/)
+- **2022 Sep. ~ now**
+    - [Vaiv Company Inc.](https://www.vaivcompany.kr/)
+- **2017 Jun. ~ 2022 Sep.**
+    - Research Engineer, [Hancom Inspace Co. Ltd.](https://www.inspace.co.kr/)
+- **2009 Mar. ~ 2017 Feb.**
+    - Bachelor of Engineering in IT Convergence and Application Engineering, [Pukyong National University](https://www.pknu.ac.kr/main)
+    - Undergraduate Researcher, [Information and Database System Lab.](https://db.pknu.ac.kr/rhymix/)
 
 ### Skills
 
