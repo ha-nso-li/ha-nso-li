@@ -2,11 +2,11 @@
 
 ### Experiences
 
-- **2022 Sep. ~ now**
+- **2022-09 ~ now**
     - [Vaiv Company Inc.](https://www.vaivcompany.kr/)
-- **2017 Jun. ~ 2022 Sep.**
+- **2017-06 ~ 2022-09**
     - Research Engineer, [Hancom Inspace Co. Ltd.](https://www.inspace.co.kr/)
-- **2009 Mar. ~ 2017 Feb.**
+- **2009-03 ~ 2017-02**
     - Bachelor of Engineering in IT Convergence and Application Engineering, [Pukyong National University](https://www.pknu.ac.kr/main)
     - Undergraduate Researcher, [Information and Database System Lab.](https://db.pknu.ac.kr/rhymix/)
 
