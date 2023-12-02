@@ -12,7 +12,7 @@
 
 ### Skills
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white "C#")
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white "C#")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "Python")
 ![WPF](https://img.shields.io/badge/WPF-044A88?style=flat-square "WPF")
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white ".NET")
@@ -25,7 +25,7 @@
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white "Visual Studio")
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white "Visual Studio Code")
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white "Windows")
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white "Windows")
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=Fedora&logoColor=white "Fedora")
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white "Android")
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox%20Browser&logoColor=white "Firefox")
