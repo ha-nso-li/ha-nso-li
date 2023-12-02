@@ -12,7 +12,7 @@
 
 ### Skills
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white "C#")
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white "C#")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "Python")
 ![WPF](https://img.shields.io/badge/WPF-044A88?style=flat-square "WPF")
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white ".NET")
