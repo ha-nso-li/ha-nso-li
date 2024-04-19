@@ -13,13 +13,15 @@
 ### Skills
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white "C#")
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "Python")
-![WPF](https://img.shields.io/badge/WPF-044A88?style=flat-square "WPF")
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white ".NET")
+![WPF](https://img.shields.io/badge/WPF-044A88?style=flat-square "WPF")
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "Python")
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white "TensorFlow")
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white "Keras")
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white "PyTorch")
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white "OpenCV")
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white "Java")
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white "Spring Boot")
 
 ### Using
 
